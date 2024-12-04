@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | IoT Enthusiast from Sri Lanka 🌴</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasunjayamaha&label=Profile%20Views&color=0e75b6&style=flat" alt="kasunjayamaha" />
+  <img src="https://komarev.com/ghpvc/?username=kasun-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="kasunjayamaha" />
   <img src="https://img.shields.io/github/followers/kasun-dev?label=Followers&style=social" alt="followers" />
 </p>
 
