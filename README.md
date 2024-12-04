@@ -19,10 +19,10 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/kasun-jayamaha" target="_blank">
+  <a href="https://linkedin.com/in/kasun jayamaha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/don.kasun.jayamaha" target="_blank">
+  <a href="https://fb.com/don kasun jayamaha" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
   <a href="https://instagram.com/kx.002" target="_blank">
