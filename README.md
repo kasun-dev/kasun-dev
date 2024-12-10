@@ -11,9 +11,9 @@
 
 - 🔭 **Currently working on:** Portfolio Project  
 - 🌱 **Currently learning:** ESP32 IoT-Based Technologies  
-- 💻 **Portfolio:** https://kasun-dev.github.io/portfolio-web/
+- 💻 **About Me:** [Portfolio](https://kasun-dev.github.io/portfolio-web/)
 - 📫 **Reach me at:** ks2005755@gmail.com  
-- 📄 **Know about my experiences:** [Resume Link](#)  
+- 📄 **Know about my experiences:** [Resume/download](https://kasun-dev.github.io/portfolio-web/cv.pdf)  
 - ⚡ **Fun fact:** I’m always up for a road trip, no matter how far!  
 
 ---
