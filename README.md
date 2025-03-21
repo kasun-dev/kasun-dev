@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 **Currently working on:** Portfolio Project  
+- 🔭 **Currently working on:** Docker & Kubernetes   
 - 🌱 **Currently learning:** ESP32 IoT-Based Technologies  
 - 💻 **About Me:** [Portfolio](https://kasun-dev.github.io/portfolio-web/)
 - 📫 **Reach me at:** ks2005755@gmail.com  
