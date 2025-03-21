@@ -86,9 +86,18 @@
 
 <h3 align="center">🚀 Personal Projects</h3>
 <ul>
-  <li>🌟 <a href="#">Portfolio Website</a> – A showcase of my skills and projects.</li>
-  <li>🐾 <a href="#">IdeoMix</a> – Business parties connecting Web.</li>
-  <li>📱 <a href="#">IoT Automation</a> – Manage appliances with ESP32.</li>
+  <ul>
+  <li>🌐 <a href="https://kasun-dev.github.io/portfolio-web/">Personal Web Portfolio Project</a> – Next.js-based project deployed on GitHub Pages, showcasing web development and UI/UX skills.</li>
+  <li>🍽️ <a href="#">Nourish Lanka – Food Donation System</a> – Full-stack MERN application enabling secure donor-organization connections with real-time tracking.</li>
+  <li>🔧 <a href="#">IoT Projects</a> – Research-driven embedded systems development using ESP32, focusing on wireless communication and data processing.</li>
+  <li>🐾 <a href="#">PawPal – Animal Adoption & Pet Care App</a> – Cross-platform mobile app built with Flutter, integrating Firebase for real-time updates.</li>
+  <li>📊 <a href="#">Sales Optimizer Tool</a> – Sales Analysis Platform - Data-driven analytics platform leveraging Nest.js, Next.js, and Prisma, implementing predictive sales insights.</li>
+  <li>🏥 <a href="#">H-Link – Hospital Management System</a> – Scalable healthcare management platform built with Nest.js, Next.js, and Prisma, featuring role-based access control (RBAC).</li>
+  <li>🎟️ <a href="#">ReserveScreen.lk</a> – Movie Booking Website - Dynamic ticketing system developed using HTML, CSS, PHP & JavaScript with secure payment integration.</li>
+  <li>🧺 <a href="#">Laundry Pro</a> – Laundry Management System - Web-based enterprise solution for automated laundry service management, developed with Java.</li>
+  <li>🤝 <a href="#">IdeoMix</a> – Business parties connecting Web.</li>
+</ul>
+
 </ul>
 
 ---
