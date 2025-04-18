@@ -78,9 +78,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasun-dev&theme=radical" alt="kasunjayamaha" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasun-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
+
 <h3 align="center">✨ Quote</h3>
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
----
+
