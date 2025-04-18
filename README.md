@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/followers/kasun-dev?label=Followers&style=social" alt="followers" />
 </p>
 
----
-
 - 🔭 **Currently working on:** Docker & Kubernetes   
 - 🌱 **Currently learning:** ESP32 IoT-Based Technologies  
 - 💻 **About Me:** [Portfolio](https://kasun-dev.github.io/portfolio-web/)
@@ -16,7 +14,6 @@
 - 📄 **Know about my experiences:** [Resume/download](https://kasun-dev.github.io/portfolio-web/cv.pdf)  
 - ⚡ **Fun fact:** I’m always up for a road trip, no matter how far!  
 
----
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
